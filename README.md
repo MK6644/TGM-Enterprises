@@ -92,7 +92,7 @@
             <h3>Contact Us</h3>
             <p>Get in touch with us to learn more about our products or to place an order:</p>
             <p>Email: <a href="mailto:info@tgmsalt.com">info@tgmsalt.com</a></p>
-            <p>Phone: <a href="tel:+123456789">+1 234-567-89</a></p>
+            <p>Phone: <a href="tel:+123456789">+91 822 050 6644</a></p>
         </section>
     </div>
     <footer>
