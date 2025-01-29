@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="TGM Salt Enterprises | Premium Salt Solutions & Competitive Pricing">
-    <meta property="og:description" content="Explore TGM Salt Enterprises for unparalleled salt solutions, competitive pricing, and excellent customer reviews. Contact us today for premium salt products tailored to your needs.">
-    <meta name="twitter:title" content="TGM Salt Enterprises | Premium Salt Solutions & Competitive Pricing">
-    <meta name="twitter:description" content="Explore TGM Salt Enterprises for unparalleled salt solutions, competitive pricing, and excellent customer reviews. Contact us today for premium salt products tailored to your needs.">
-    <meta property="og:image" content="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/38901e84-b534-4c97-96ab-cfb2626bb700/public">
-    <meta name="twitter:image" content="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/38901e84-b534-4c97-96ab-cfb2626bb700/public">
+
     <title>TGM Salt Enterprises</title>
     <style>
         body {
