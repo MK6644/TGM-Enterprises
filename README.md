@@ -58,18 +58,12 @@
     <p>Your trusted provider of premium salt products</p>
   </header>
   <section class="gallery">
-    <img src="https://example.com/sea-salt.jpg" alt="Sea Salt Crystals">
-    <img src="https://example.com/rock-salt.jpg" alt="Rock Salt Chunks">
-    <img src="https://example.com/iodized-salt.jpg" alt="Iodized Table Salt in Packaging">
-    <img src="https://example.com/himalayan-salt.jpg" alt="Himalayan Pink Salt">
-    <img src="https://example.com/industrial-salt.jpg" alt="Bulk Industrial Salt Bags">
-    <img src="https://example.com/deicing-salt.jpg" alt="De-icing Salt on Icy Roads">
-    <img src="https://example.com/black-salt.jpg" alt="Black Salt in a Bowl">
-    <img src="https://example.com/flavored-salt.jpg" alt="Flavored Salt for Cooking">
-    <img src="https://example.com/epsom-salt.jpg" alt="Epsom Salt for Bathing">
-    <img src="https://example.com/salt-lamp.jpg" alt="Himalayan Salt Lamp">
-    <img src="https://example.com/gourmet-salt.jpg" alt="Gourmet Salt in Elegant Jars">
-    <img src="https://example.com/salt-harvesting.jpg" alt="Salt Harvesting from Salt Pans">
+    <img src="https://example.com/sea-salt.jpg" alt="Sea Salt">
+    <img src="https://example.com/rock-salt.jpg" alt="Rock Salt">
+    <img src="https://example.com/iodized-salt.jpg" alt="Iodized Salt">
+    <img src="https://example.com/himalayan-salt.jpg" alt="Himalayan Salt">
+    <img src="https://example.com/industrial-salt.jpg" alt="Industrial Salt">
+    <img src="https://example.com/deicing-salt.jpg" alt="De-icing Salt">
   </section>
   <footer>
     <p>&copy; 2025 TGM Salt Enterprises. All rights reserved.</p>
